@@ -1,2 +1,0 @@
-# SineWord
-Created with CodeSandbox
